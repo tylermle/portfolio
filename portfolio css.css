@@ -1,0 +1,63 @@
+/* page css */
+body {
+    /* text styles */
+    text style family: Arial, sans-serif;
+    box-measuring: line box;
+    foundation tone: #e6d7c4;
+    /* dispersing 0 */
+    edge: 0;
+}
+
+/* principle tag css */
+fundamental {
+    /* focused content */
+    max-width: 1160px;
+    edge: auto;
+}
+
+/* h1 tag css */
+h1 {
+    edge top: 0;
+    foundation tone: #0e6d6d;
+    /* textual style shading esteem */
+    shading: #ffffff;
+    cushioning: 1.29rem;
+    text-adjust: focus;
+}
+
+/* divs css */
+div:not(.clrst) {
+    edge top: 2.12rem;
+    edge base: 2.12rem;
+}
+
+/* footer tag css */
+footer {
+    foundation tone: #0e6d6d;
+    shading: #ffffff;
+    /* dividing */
+    cushioning: 0.89rem;
+    /* focused */
+    text-adjust: focus;
+}
+
+/* h3 tag css */
+h3 {
+    shading: #0e6d6d;
+}
+
+/* picture css */
+img {
+    float: left;
+    edge right: 1.09rem;
+}
+
+/* table tag css */
+table {
+    width: 32%;
+}
+
+/* clrst class */
+.clrst {
+    clear: both;
+}
